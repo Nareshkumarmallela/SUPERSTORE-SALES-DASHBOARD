@@ -39,5 +39,8 @@ Highly motivated and results-driven Data Analyst with a passion for transforming
 A fast learner and dedicated professional, I am committed to contributing to data-driven decision-making and eager to apply my skills to tackle challenging real-world business problems.
 ## Screenshots
 
-![App Screenshot](https://github.com/Nareshkumarmallela/PowerBI-Projects/blob/main/Screenshot%202024-06-11%20213754.png)
+![App Screenshot](https://github.com/Nareshkumarmallela/SUPERSTORE-SALES-DASHBOARD/blob/main/Navigation_page.png)
+![App Screenshot](https://github.com/Nareshkumarmallela/SUPERSTORE-SALES-DASHBOARD/blob/main/SuperStore%20Dashboard1.png)
+![App Screenshot](https://github.com/Nareshkumarmallela/SUPERSTORE-SALES-DASHBOARD/blob/main/Dashboard2.png)
+![App Screenshot](https://github.com/Nareshkumarmallela/SUPERSTORE-SALES-DASHBOARD/blob/main/Dashboard3.png)
 
